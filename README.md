@@ -1,3 +1,4 @@
 # hello-world
 First repository
-write a bit about yourself
+Hi guys,
+write a bit about yourself!
